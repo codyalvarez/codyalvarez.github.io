@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "the_collective. - & How to start sinatra project"
-date:       2020-11-13 23:25:31 +0000
+date:       2020-11-13 18:25:32 -0500
 permalink:  the_collective_-_and_how_to_start_sinatra_project
 ---
 
@@ -12,7 +12,7 @@ permalink:  the_collective_-_and_how_to_start_sinatra_project
 
 
 
-Learning Sinatra was a bit of learning curve but once you get the general structure and what Sinatra actual takes care of for you, you realize how helpful it really is.  With the help of corneal (which i highly advice future students to take advantage of) my project soon took flight. 
+Learning Sinatra was a bit of learning curve but once you get the general structure and what Sinatra actual takes care of for you, you realize how helpful it really is.  With the help of corneal (which I highly advice future students to take advantage of) my project soon took flight. 
 
 
 
@@ -71,7 +71,7 @@ If it is empty, no biggie let's go ahead and create a folder named ```projects``
 
 Alrighty, awesome so we went ahead and created our project in the right directory, Now for phase 2. 
 
-If your planning on building your project from scratch, good for you, you can skip these couple of steps BUT i highly suggest you use the ```corneal gem```. Saves you a lot of time. So that is what i will be walking your through. 
+If your planning on building your project from scratch, good for you, you can skip these couple of steps BUT I highly suggest you use the ```corneal gem```. Saves you a lot of time. So that is what i will be walking your through. 
 
 
 
