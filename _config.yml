@@ -1,0 +1,20 @@
+# Site settings
+author: Cody Alvarez
+title: jedi-alvarez
+header-img: img/home-bg.png
+email: cody_alvarez19@outlook.com
+copyright_name: Cody Alvarez
+description: > # this means to ignore newlines until "baseurl:"
+  a coders journey
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  codyalvarez
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
